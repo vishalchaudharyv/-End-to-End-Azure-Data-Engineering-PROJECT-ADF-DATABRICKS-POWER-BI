@@ -167,7 +167,7 @@
 				]
 			},
 			{
-				"name": "customer",
+				"name": "coustom",
 				"type": "Copy",
 				"dependsOn": [
 					{
@@ -209,13 +209,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "Json1",
+						"referenceName": "Json3",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "Parquet4",
+						"referenceName": "Parquet6",
 						"type": "DatasetReference"
 					}
 				]
