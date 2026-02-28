@@ -1,0 +1,18 @@
+{
+	"name": "Json1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "HttpServer1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": "vishalchaudharyv/-End-to-End-Azure-Data-Engineering-PROJECT-ADF-DATABRICKS-POWER-BI/refs/heads/main/SCRIPT%20SQL%20(1).txt"
+			}
+		},
+		"schema": {}
+	}
+}
