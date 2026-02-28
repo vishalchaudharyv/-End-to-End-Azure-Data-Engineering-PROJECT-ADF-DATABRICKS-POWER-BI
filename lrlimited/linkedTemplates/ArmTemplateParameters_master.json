@@ -29,6 +29,12 @@
 		"HttpServer1_properties_typeProperties_url": {
 			"value": "https://raw.githubusercontent.com/"
 		},
+		"HttpServer2_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
+		"HttpServer3_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
 		"containerUri": {
 			"value": ""
 		},
